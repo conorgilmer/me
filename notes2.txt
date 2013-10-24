@@ -1,1 +1,7 @@
-This is my first web page
+Corona Lua Project
+Industry project
+PHP / MySql DB Project
+Facebook Project
+UCD Project
+
+Lots done more to do!
